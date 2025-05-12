@@ -39,9 +39,3 @@ It demonstrates how a digital agriculture system might be structured behind the 
 
 ---
 
-## 🚀 How to Set Up
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/farming-produce-marketplace.git
-   cd farming-produce-marketplace
